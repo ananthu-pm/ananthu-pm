@@ -1,59 +1,79 @@
-# Hi there, I'm Ananthu! 👋
-
-I'm a Full-Stack Developer passionate about building digital solutions that solve real-world problems—from healthcare accessibility to local commerce and social safety.
-
----
-
-### 🛠 My Tech Stack
-
-| Category | Tools |
-| :--- | :--- |
-| **Languages** | Python, Java (Android), JavaScript, SQL |
-| **Frameworks** | Flask, Bootstrap 4 |
-| **Mobile** | Native Android Development |
-| **Database** | MySQL |
-| **Security** | Cyber Bullying Detection (ML/NLP) |
-
----
-
-### 🚀 Featured Projects
-
-#### 🤱 [OVIA - Maternal Health Platform](https://github.com/ananthu-pm/OVIA-Health-Platform)
-A modular Flask system for Primary Health Centers to track and manage pregnancy wellness.
-
-#### 🛒 [LocoMart - Smart Shopping](https://github.com/ananthu-pm/LocoMart-Smart-Shopping)
-An e-commerce ecosystem featuring a web-backend and two native Android apps.
-
-#### 🎓 [Scholarship Management System](https://github.com/ananthu-pm/ScholarshipManagementSystem)
-A streamlined platform for managing scholarship applications and eligibility verification.
-
-#### 🛡️ [Cyber Bullying Detection](https://github.com/ananthu-pm/Cyber-Bullying-Detection)
-An AI-powered system using NLP to identify and mitigate online toxicity.
-
----
-
-### 📊 GitHub Analytics
+# <p align="center">✨ Hi there, I'm Ananthu P M ✨</p>
 
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ananthu-pm&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Ananthu's GitHub stats" height="180px" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananthu-pm&layout=compact&theme=radical&langs_count=6" alt="Top Languages" height="180px" />
-</p>
-
-<br clear="both" />
-
-### 🐍 Contribution Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ananthu-pm&theme=radical" alt="Ananthu's Streak" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D2FF&center=true&vCenter=true&width=500&lines=MCA+Student+%40+IGNOU;Computer+Science+Graduate;Aspiring+Software+Developer;Deep+Learning+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/YOUR_INSTAGRAM_USERNAME)
+### 🚀 About Me
+
+I am an enthusiastic and highly motivated **Computer Science Graduate** currently pursuing my **MCA at IGNOU**. I am deeply passionate about **AI, IoT, and Software Development**, with a strong focus on building impactful solutions for real-world problems.
+
+- 📍 Based in: **Kerala, India**
+- 🎓 Education: **BSc Computer Science (UoK) | MCA (Ongoing)**
+- 🌱 Learning: **Deep Learning & Emerging Technologies**
+- 💡 Interest: **Smart Manufacturing & Cyber-Physical Systems**
 
 ---
 
+### 🛠️ Technical Arsenal
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+</p>
+
+---
+
+### 🌟 Featured Projects
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[LocoMart](https://github.com/ananthu-pm/LocoMart-Smart-Shopping)** | Smart Shopping & Local Commerce platform for rural entrepreneurs. | `Flask`, `Python`, `JS` |
+| **[Oie Connect](https://github.com/ananthu-pm/Cyber-Bullying-Detection)** | Cyberbullying Detection using hybrid DEA-RNN models. | `Deep Learning`, `TensorFlow` |
+| **[OVIA](https://github.com/ananthu-pm/OVIA-Health-Platform)** | Maternal Health & Risk Communication bridge for rural areas. | `Flask`, `Python`, `E-Health` |
+| **[SAGE](https://github.com/ananthu-pm/ScholarshipManagementSystem)** | Comprehensive Scholarship Management System for Indian Students. | `Java`, `Android`, `Flask` |
+
+---
+
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ananthu-pm&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ananthu-pm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ananthu's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananthu-pm&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://ananthu-pm.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ananthupm/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/r._m_.i/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:ananthupm2003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ananthu-pm&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
